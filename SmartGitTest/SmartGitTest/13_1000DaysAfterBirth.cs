@@ -12,6 +12,7 @@ class Program
         string d = userDate.ToString("dd-MM-yyyy",
              System.Globalization.CultureInfo.InvariantCulture);
         Console.WriteLine(d);
+        //Правя изменения в главния клон /master = origin
     }
 }
 
