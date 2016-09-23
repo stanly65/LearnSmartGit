@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_1000DaysAfterBirth", "SmartGitTest\13_1000DaysAfterBirth.csproj", "{DE276001-7754-4ADD-B9E6-24D404CD1BA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{BEB701E0-8B48-4D2B-8F0C-7E303758F5DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE276001-7754-4ADD-B9E6-24D404CD1BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE276001-7754-4ADD-B9E6-24D404CD1BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE276001-7754-4ADD-B9E6-24D404CD1BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB701E0-8B48-4D2B-8F0C-7E303758F5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB701E0-8B48-4D2B-8F0C-7E303758F5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB701E0-8B48-4D2B-8F0C-7E303758F5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB701E0-8B48-4D2B-8F0C-7E303758F5DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
