@@ -14,6 +14,8 @@ class Program
         Console.WriteLine(d);
         // трябва да съм в новия клон /branch
         //отново добавям в /feature/new-branch
+        //Правя изменения в главния клон /master = origin
+//след конфликт
     }
 }
 
