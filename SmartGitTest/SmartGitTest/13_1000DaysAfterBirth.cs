@@ -13,6 +13,7 @@ class Program
              System.Globalization.CultureInfo.InvariantCulture);
         Console.WriteLine(d);
         // трябва да съм в новия клон /branch
+        //отново добавям в /feature/new-branch
     }
 }
 
